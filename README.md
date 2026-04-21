@@ -48,7 +48,7 @@ websiteKasir/
 1. Clone repository
 
    ```bash
-   git clone https://github.com/aan-HTML/websiteKasir.git
+   git clone https://github.com/aan-HTML/KasirKu.git
    ```
 
 2. Masuk ke folder project
