@@ -1,4 +1,4 @@
-# 🧾 KasirKu — Web-Based Cashier System
+# KasirKu — Web-Based Cashier System
 
 KasirKu adalah aplikasi kasir berbasis web yang dikembangkan untuk membantu proses transaksi penjualan menjadi lebih cepat, akurat, dan efisien.  
 Proyek ini dibuat menggunakan teknologi modern dengan fokus pada **kemudahan penggunaan**, **performa ringan**, dan **tampilan yang responsif**.
@@ -25,7 +25,7 @@ KasirKu hadir sebagai solusi dengan menyediakan:
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - 🛒 Menampilkan halaman kasir interaktif  
 - ➕ Menambahkan item/barang  
@@ -35,7 +35,7 @@ KasirKu hadir sebagai solusi dengan menyediakan:
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - ⚛️ **React**  
 - 🟦 **TypeScript**  
@@ -45,7 +45,7 @@ KasirKu hadir sebagai solusi dengan menyediakan:
 
 ---
 
-## 🎯 Target Pengguna
+## Target Pengguna
 
 - UMKM  
 - Toko retail kecil  
@@ -53,7 +53,7 @@ KasirKu hadir sebagai solusi dengan menyediakan:
 
 ---
 
-## 📈 Impact
+## Impact
 
 Dengan menggunakan KasirKu:
 - ⏱️ Proses transaksi menjadi lebih cepat  
@@ -63,7 +63,7 @@ Dengan menggunakan KasirKu:
 
 ---
 
-## 📂 Struktur Folder
+## Struktur Folder
 
 ```bash
 websiteKasir/
@@ -80,7 +80,7 @@ websiteKasir/
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 
 ```bash
 git clone https://github.com/aan-HTML/KasirKu.git
@@ -96,7 +96,7 @@ http://localhost:5173
 
 ---
 
-## 📦 Build Production
+## Build Production
 
 ```bash
 npm run build
@@ -106,7 +106,7 @@ Hasil build akan berada di folder `dist/`.
 
 ---
 
-## 🧠 Catatan
+## Catatan
 
 - Aplikasi berjalan di sisi frontend  
 - Data belum tersimpan secara permanen (tanpa database)  
@@ -117,10 +117,10 @@ Hasil build akan berada di folder `dist/`.
 ## 👨‍💻 Developer
 
 **Aan**  
-🚀 Frontend Developer | Web Enthusiast  
+ Frontend Developer | Web Enthusiast  
 
 ---
 
-## ⭐ Support
+## Support
 
 Jika kamu merasa project ini bermanfaat, jangan lupa kasih **star ⭐** di repository ini!
