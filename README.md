@@ -1,85 +1,102 @@
-# 🛍️ Website Kasir
+# 🧾 KasirKu — Web-Based Cashier System
 
-Website Kasir adalah aplikasi kasir berbasis website yang dibuat untuk membantu proses transaksi penjualan secara sederhana dan cepat. Proyek ini dikembangkan sebagai latihan dan implementasi teknologi frontend modern.
-
-Aplikasi ini berjalan di sisi klien (frontend) dan belum terhubung dengan backend atau database.
+KasirKu adalah aplikasi kasir berbasis web yang dikembangkan untuk membantu proses transaksi penjualan menjadi lebih cepat, akurat, dan efisien.  
+Proyek ini dibuat menggunakan teknologi modern dengan fokus pada **kemudahan penggunaan**, **performa ringan**, dan **tampilan yang responsif**.
 
 ---
 
-## 📌 Teknologi yang Digunakan
+## ❗ Problem
 
-* ⚛️ **React**
-* 🟦 **TypeScript**
-* ⚡ **Vite**
-* 🌐 **HTML & CSS**
-* 📦 **Node.js & NPM**
+Banyak usaha kecil hingga menengah masih menghadapi kendala:
+- Pencatatan transaksi manual  
+- Kesalahan dalam perhitungan harga  
+- Sulit melacak data penjualan  
+- Proses transaksi yang lambat  
+
+---
+
+## 💡 Solution
+
+KasirKu hadir sebagai solusi dengan menyediakan:
+- Sistem kasir digital berbasis web  
+- Perhitungan otomatis yang akurat  
+- Interface sederhana dan mudah digunakan  
+- Akses langsung tanpa instalasi tambahan  
 
 ---
 
 ## ✨ Fitur Utama
 
-* 🛒 Menampilkan halaman kasir
-* ➕ Menambah item/barang
-* ➖ Menghapus item
-* 💰 Menghitung total harga secara otomatis
-* 📱 Tampilan responsif dan modern
+- 🛒 Menampilkan halaman kasir interaktif  
+- ➕ Menambahkan item/barang  
+- ➖ Menghapus item  
+- 💰 Menghitung total harga secara otomatis  
+- 📱 Tampilan responsif dan modern  
 
 ---
 
-## 📂 Struktur Folder (Ringkas)
+## ⚙️ Teknologi yang Digunakan
 
-```
+- ⚛️ **React**  
+- 🟦 **TypeScript**  
+- ⚡ **Vite**  
+- 🌐 **HTML & CSS**  
+- 📦 **Node.js & NPM**  
+
+---
+
+## 🎯 Target Pengguna
+
+- UMKM  
+- Toko retail kecil  
+- Bisnis yang membutuhkan sistem kasir sederhana  
+
+---
+
+## 📈 Impact
+
+Dengan menggunakan KasirKu:
+- ⏱️ Proses transaksi menjadi lebih cepat  
+- ❌ Mengurangi kesalahan perhitungan manual  
+- 📊 Data lebih terorganisir  
+- 👍 Meningkatkan efisiensi operasional  
+
+---
+
+## 📂 Struktur Folder
+
+```bash
 websiteKasir/
-├── components/        # Komponen React
-├── images/            # Asset gambar
-├── App.tsx            # Root component
-├── index.tsx          # Entry React
-├── constants.ts       # Konstanta aplikasi
-├── index.html         # File HTML utama
-├── package.json       # Konfigurasi project & dependensi
-├── tsconfig.json      # Konfigurasi TypeScript
-└── vite.config.ts     # Konfigurasi Vite
+├── components/
+├── images/
+├── App.tsx
+├── index.tsx
+├── constants.ts
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
 ```
 
 ---
 
 ## 🚀 Cara Menjalankan Proyek
 
-1. Clone repository
+```bash
+git clone https://github.com/aan-HTML/KasirKu.git
+cd websiteKasir
+npm install
+npm run dev
+```
 
-   ```bash
-   git clone https://github.com/aan-HTML/KasirKu.git
-   ```
-
-2. Masuk ke folder project
-
-   ```bash
-   cd websiteKasir
-   ```
-
-3. Install dependensi
-
-   ```bash
-   npm install
-   ```
-
-4. Jalankan server development
-
-   ```bash
-   npm run dev
-   ```
-
-5. Buka browser dan akses:
-
-   ```
-   http://localhost:5173
-   ```
+Buka di browser:
+```
+http://localhost:5173
+```
 
 ---
 
 ## 📦 Build Production
-
-Untuk membuat versi siap deploy:
 
 ```bash
 npm run build
@@ -91,16 +108,19 @@ Hasil build akan berada di folder `dist/`.
 
 ## 🧠 Catatan
 
-* Proyek ini fokus pada frontend
-* Data transaksi belum tersimpan permanen
-* Cocok untuk demo, pembelajaran React & TypeScript
+- Aplikasi berjalan di sisi frontend  
+- Data belum tersimpan secara permanen (tanpa database)  
+- Cocok untuk demo, pembelajaran, dan pengembangan lanjutan  
 
 ---
 
-## 👨‍💻 Kontributor
+## 👨‍💻 Developer
 
-* **Aan** – Developer
+**Aan**  
+🚀 Frontend Developer | Web Enthusiast  
 
 ---
 
-⭐ Jangan lupa beri **star** pada repository ini jika bermanfaat!
+## ⭐ Support
+
+Jika kamu merasa project ini bermanfaat, jangan lupa kasih **star ⭐** di repository ini!
